@@ -52,4 +52,4 @@ python3 q_learning/train.py
 ## Notes
 - environment.py는 GridWorld 환경, 상태 전이, 보상 구조를 담당합니다.
 - q_learning_agent.py는 행동 선택과 Q값 업데이트를 담당합니다.
-- train.py는 학습 실행, score 기록, 결과 저장을 담당합니다.ㄴ
+- train.py는 학습 실행, score 기록, 결과 저장을 담당합니다. 
